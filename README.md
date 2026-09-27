@@ -6,15 +6,15 @@ This repository documents the health and fitness calculator collection available
 
 ## What this repository contains
 
-The Health & Fitness collection currently includes **18 calculators** covering areas such as:
+The Health & Fitness collection currently includes **18 calculators** covering:
 
-- Body composition
+- Body composition and weight
 - Calories and energy expenditure
-- Weight and nutrition
-- Activity and exercise
-- Sleep and daily habits
+- Nutrition and daily activity
+- Sleep
 - Reproductive health estimates
-- Other health-related calculations
+- Blood alcohol and blood pressure
+- Other health and fitness-related calculations
 
 See the [Health & Fitness Calculator Index](calculators/README.md) for the complete list.
 
@@ -37,6 +37,8 @@ Where relevant, calculator documentation explains:
 ## About CalciHub
 
 [CalciHub](https://calcihub.com/) is a collection of practical online calculators covering finance, mathematics, health and fitness, conversions, science, statistics, date and time, and other everyday calculations.
+
+CalciHub is built and operated by [InZentrix](https://inzentrix.com/), a digital development and technology agency based in New Delhi, India.
 
 ## Related resources
 
